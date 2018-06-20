@@ -4,5 +4,5 @@ EV3上で動作するmrubyのサンプルコードです
 超音波センサーが30cm以内に障害物を検知している間、LEDが緑色に光り、検出しなくなると消灯します。
 
 ## 使い方
-http://qiita.com/yamanekko/items/xxxxx
+https://qiita.com/yamanekko/items/ac3c6c3ffae1df850d46
 
