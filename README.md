@@ -1,7 +1,8 @@
-# ETロボコン2018 way用mruby版サンプルコード
+# EV3RT用mruby yamanekko版用サンプルコード
 
-現在Windowsで動作確認中です。Windows(Cygwin)ではビルド通ってないので、まだ使わないでね
+EV3上で動作するmrubyのサンプルコードです
+超音波センサーが30cm以内に障害物を検知している間、LEDが緑色に光り、検出しなくなると消灯します。
 
-使い方(日本語版)
-http://qiita.com/yamanekko/items/c2adb87031bf38bb8a13
+## 使い方
+http://qiita.com/yamanekko/items/xxxxx
 
